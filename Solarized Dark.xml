@@ -29,8 +29,8 @@
         <javadocTag color="#657b83" />
 
         <directive color="#b58900" bold="false" />
-        <builtin color="#b58900" />
-        <keyword color="#b58900" />
+        <builtin color="#b58900" bold="false" />
+        <keyword color="#b58900" bold="false" />
     <importPrefix color="#FF0000" />
     
         <number color="#dc322f" />
