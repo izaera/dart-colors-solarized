@@ -16,7 +16,6 @@ on GitHub.
 
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
-[Dart Editor only repository]:  https://github.com/izaera/dart-colors-solarized
 
 Status
 ------------
