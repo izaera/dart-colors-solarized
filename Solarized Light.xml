@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme name="Solarized Light" author="Iván Zaera (izaera@gmail.com)" website="http://github.com/izaera">
+        
+        <foreground color="#657b83" />
+        <background color="#fdf6e3" />
+        <lineNumber color="#839496" />        
+        <currentLine color="#eee8d5" />
+
+        <bracket color="#657b83" />
+        <operator color="#657b83" />
+
+        <selectionForeground color="#268bd2" />
+        <selectionBackground color="#073642" />
+        
+        <findScope color="#002b36" />
+        <sourceHoverBackground color="#eee8d5" />
+        <occurrenceIndication color="#eee8d5" />
+        <writeOccurrenceIndication color="#eee8d5" />
+    <filteredSearchResultIndication color="#FF0000" />
+    <searchResultIndication color="#FF0000" />
+
+        <singleLineComment color="#93a1a1" />
+        <multiLineComment color="#93a1a1" />
+        <commentTaskTag color="#859900" />
+
+        <javadoc color="#93a1a1" />
+        <javadocKeyword color="#839496" />
+        <javadocLink color="#839496" />
+        <javadocTag color="#839496" />
+
+        <directive color="#b58900" bold="false" />
+        <builtin color="#b58900" bold="false" />
+        <keyword color="#b58900" bold="false" />
+    <importPrefix color="#FF0000" />
+    
+        <number color="#dc322f" />
+        <string color="#2aa198" />
+        <multiLineString color="#2aa198" />
+        <dynamicType color="#657b83" />
+        <typeParameter color="#268bd2" />
+    
+        <constant color="#d33682" />
+    
+        <class color="#268bd2" />
+        <functionTypeAlias color="#268bd2" />
+
+        <staticField color="#d33682" />
+        <staticFinalField color="#d33682" />
+        <staticMethod color="#657b83" />
+    
+        <field color="#6c71c4" />
+        <getter color="#6c71c4" />
+        <setter color="#6c71c4" />
+
+        <function color="#657b83" />
+        <staticMethodDeclaration color="#cb4b16"/>
+        <constructor color="#268bd2" />
+        <methodDeclaration color="#cb4b16" />
+        <method color="#657b83" />
+        <inheritedMethod color="#657b83" />
+        <abstractMethod color="#657b83" />
+
+        <localVariable color="#657b83" />
+        <localVariableDeclaration color="#657b83" />
+        <parameterVariable color="#657b83" />
+
+        <annotation color="#859900" />
+        <deprecatedMember color="#859900" strikethrough="true" />
+
+    <deletionIndication color="#FFFFFF" />
+    <enum color="#FF0000" />
+    <interface color="#00FFFF" />
+    <keywordReturn color="#FFFF00" />
+    <typeArgument color="#FF00FF" />
+</colorTheme>
+
